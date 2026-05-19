@@ -5,7 +5,7 @@
 # -----------------------------------------------------------------------------
 
 # ----- Set up
-here::i_am("code/1_weights_function.R")
+here::i_am("code/4_bootstrap.R")
 pacman::p_load("dplyr","tidyr", "lubridate", "zoo")
 
 # ----- Function
